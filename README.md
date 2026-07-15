@@ -1,4 +1,4 @@
-# FWC AI-Powered HRMS
+# Enterprise AI-HRMS Suite
 
 ## 🎯 Enterprise HR Management System
 
